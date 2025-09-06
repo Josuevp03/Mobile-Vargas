@@ -1,0 +1,13 @@
+PERSONAL
+-ID/NIT
+-Nombre
+-Cargo
+
+LISTA PERSONAL
+-Mostrar Cargos
+-Tabla Empleados
+
+CONTROLADOR
+-MostarPersonalPorCargo()
+-CambiosDeCargo()
+-DesvinculacionDePerosonal
