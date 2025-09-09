@@ -1,0 +1,29 @@
+redes sociales
+
+cual seria la función especifica que debería tener la aplicación 
+- creación de usuario único
+- conectar usuarios 
+- creación de grupos y redes de interacción
+- creación de contenido por parte de los usuarios
+- permitir que los usuarios se comuniquen entre ellos
+
+
+requisitos funcionales
+- Manejamiento de usuarios
+- publicación de contenido
+- búsqueda de contenido
+- interacción entre usuarios
+- creación de canales de difusión e interacción
+- administración de contenido
+- relacionamiento entre usuarios
+
+
+mencionar una de ejemplo
+Tiktok
+
+
+https://www.britannica.com/topic/social-media
+
+https://hellosocial.com.au/blog/social-media-apps
+
+https://en.wikipedia.org/wiki/Social_media
